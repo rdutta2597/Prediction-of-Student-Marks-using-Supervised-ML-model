@@ -3,8 +3,10 @@ In this regression task we will predict the percentage of marks that a student i
 ## Installation:
 ### Prerequisites
 1.Anaconda Python
+
 2.Jupyter Notebook
 
 ## Configuration
 1.Download the repository and extract in C drive
+
 2.Open Jupyter notebook,navigate and open <filename>.ipynb
